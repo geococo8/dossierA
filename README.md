@@ -1,1 +1,1 @@
-# dossierA
+# dossierA bibliothèque de calcul
